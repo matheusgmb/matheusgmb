@@ -1,16 +1,12 @@
-<header align="center">
-    <div>
-        <h1>Matheus Batista</h1>
-        <h3><b>Estudante de Direito e entusiasta tecnológico.</b></h3><br>
-    </div>
-    <div align="center" alt="badges">
-        <a href="https://www.linkedin.com/in/matheusgmb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-        <a href = "mailto:matheusgmb@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-        <a href="https://www.instagram.com/matheus.gmb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-        <a href="https://www.twitch.tv/saekyzz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a><br>
-        <p><img src="https://komarev.com/ghpvc/?username=matheusgmb&label=Profile%20views&color=c20054&style=flat" alt="matheusgmb"/></p>
-    </div>  
-</header>
+<h1 align="center">Matheus Batista</h1>
+<h3 align="center"><b>Estudante de Direito e entusiasta tecnológico.</b></h3><br>
+<div align="center" alt="badges">
+    <a href="https://www.linkedin.com/in/matheusgmb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href = "mailto:matheusgmb@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/matheus.gmb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.twitch.tv/saekyzz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a><br>
+    <p><img src="https://komarev.com/ghpvc/?username=matheusgmb&label=Profile%20views&color=c20054&style=flat" alt="matheusgmb"/></p>
+</div>
 <br>
 <div align="center" alt="currently">
     <h3></h3>Atualmente estudando</h3>
