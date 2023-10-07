@@ -3,10 +3,7 @@
 
 <!-- badges -->
 <div align="center">
-<a href="https://www.instagram.com/saekyzz/" name="instagram"><img src="https://img.shields.io/badge/instagram-_-_.svg?style=social&logo=instagram&labelColor=white"></a>
 <a href="https://www.linkedin.com/in/matheusgmb/" name="linkedin"><img src="https://img.shields.io/badge/linkedIn--blue.svg?style=social&logo=linkedin&logoColor=blue&labelColor=white"></a>
-<a href="mailto:matheusgmb@outlook.com" name="outlook"><img src="https://img.shields.io/badge/outlook--blue.svg?style=social&logo=microsoftoutlook&logoColor=blue&labelColor=white"></a>
-<a href="https://www.twitch.tv/saekyzz" name="twitch"><img src="https://img.shields.io/twitch/status/saekyzz?style=social"></a>
 </div>
 
 <!-- About Me -->
