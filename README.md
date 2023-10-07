@@ -26,7 +26,9 @@ I'm currently finishing my law degree and starting my programming training at Al
 <div align="center">
 <h2>Github Stats</h2>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusgmb&theme=graywhite" alt="contributions stats"/>
+  
 <img src="https://github-readme-stats.vercel.app/api?username=matheusgmb&show_icons=true&theme=graywhite" alt="github stats">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgmb&layout=compact">
 </div>
 
